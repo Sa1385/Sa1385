@@ -51,10 +51,10 @@
 
 ### 📌 Featured Projects
 
-#### 🔐 Sentenix – Role-Based Safety App  
-`Java · Kotlin · Firebase`  
-Secure Android app with role-based login (public, police, admin), GPS tracking, SOS alerts, and Firebase Auth  
-🔗 [GitHub Repo](https://github.com/Sa1385/Sentenix)
+#### 📲 NFC-Enabled Loyalty & Attendance System  
+`React · Node.js · MongoDB · NFC API`  
+A smart, touchless solution for tracking customer or student attendance using NFC tags. Supports unique NFC IDs, transaction logging, and role-based access.  
+🔗 [GitHub Repo](https://github.com/Sa1385/nfc-loyalty-system) 
 
 #### ✈️ Go Travel Planner – Microfrontend App  
 `React.js · Node.js · MongoDB`  
